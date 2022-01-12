@@ -70,33 +70,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-                <svg
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <rect
-                    width="24"
-                    height="24"
-                    className="fill-current text-black dark:text-white"
-                  />
-                  <rect width="24" height="24" fill="url(#paint0_radial)" />
-                  <defs>
-                    <radialGradient
-                      id="paint0_radial"
-                      cx="0"
-                      cy="0"
-                      r="1"
-                      gradientUnits="userSpaceOnUse"
-                      gradientTransform="rotate(45) scale(39.598)"
-                    >
-                      <stop stopColor="#CFCFCF" stopOpacity="0.6" />
-                      <stop offset="1" stopColor="#E9E9E9" stopOpacity="0" />
-                    </radialGradient>
-                  </defs>
-                </svg>
+                <svg t="1641972967313" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4731" width="24" height="24"><path d="M595.72419 50.029714l0.219429 0.24381 273.310476 284.476952A292.571429 292.571429 0 0 1 950.857143 537.429333v320a146.285714 146.285714 0 0 1-146.285714 146.285715H219.428571a146.285714 146.285714 0 0 1-146.285714-146.285715V543.744a292.571429 292.571429 0 0 1 89.209905-210.334476L457.825524 47.713524a97.52381 97.52381 0 0 1 137.898666 2.31619zM512 491.715048a146.285714 146.285714 0 1 0 0 292.571428 146.285714 146.285714 0 0 0 0-292.571428z" fill="#FD4953" p-id="4732"></path></svg>
               </div>
             </a>
           </Link>
