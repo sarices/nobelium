@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Deron\'s Life',
-  author: 'Deron',
+  author: 'Deron Cheng',
   email: 'sarices@gmail.com',
   link: 'https://zhengweidong.com',
   description: 'This is deron\'s life record.',
