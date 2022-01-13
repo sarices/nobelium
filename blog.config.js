@@ -4,7 +4,7 @@ const BLOG = {
   email: 'sarices@gmail.com',
   link: 'https://zhengweidong.com',
   description: 'This is deron\'s life record.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#FEFDF8', // use hex value, don't forget '#' e.g #fffefc

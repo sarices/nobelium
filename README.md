@@ -107,7 +107,7 @@ Check out our roadmap [here](https://www.notion.so/craigary/Public-Roadmap-3cfc4
 
 - **Generation**: Next.js and Incremental Static Regeneration
 - **Page render**: [react-notion-x](https://github.com/NotionX/react-notion-x)
-- **Style**: Tailwind CSS and `@tailwindcss/jit` compiler
+- **Style**: Tailwind CSS and `@https://news.sina.cn/project/fy2020/yq_province.shtml?city=CN44200000000000/jit` compiler
 - **Comments**: Gitalk, Cusdis and more
 
 ## Special Thanks
