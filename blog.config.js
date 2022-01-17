@@ -47,7 +47,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: 'sarices/nobelium'
+      repo: ''
     },
     cusdisConfig: {
       appId: '', // data-app-id
